@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPOZ", "SPOZ\SPOZ.csproj", "{F5B3AAF7-F4E3-450C-99C3-4F7B37CCF816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256", "..\SHA\SHA256\SHA256\SHA256.csproj", "{E66DA79C-A81D-4F1F-9D69-5B63711D4666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B3AAF7-F4E3-450C-99C3-4F7B37CCF816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B3AAF7-F4E3-450C-99C3-4F7B37CCF816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B3AAF7-F4E3-450C-99C3-4F7B37CCF816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B3AAF7-F4E3-450C-99C3-4F7B37CCF816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66DA79C-A81D-4F1F-9D69-5B63711D4666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66DA79C-A81D-4F1F-9D69-5B63711D4666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66DA79C-A81D-4F1F-9D69-5B63711D4666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66DA79C-A81D-4F1F-9D69-5B63711D4666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591A98BA-B9AB-4379-98FD-F7B29FC7C994}
+	EndGlobalSection
+EndGlobal
